@@ -1,0 +1,25 @@
+.key{
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    background: lightgray;
+    color: black;
+    margin: 2px;
+    display: flex;
+    font-weight: 600;
+}
+.row{
+    display:flex;
+}
+.enter , .cross{
+    width: 70px;
+}
+.row:nth-child(2){
+    margin-left: 20px;
+}
+.keysAfterEnter{
+    color: white;
+    font-weight: 500;
+}

@@ -1,0 +1,26 @@
+.header-container{
+    display: flex;
+    height: 60px;
+    border-bottom: 0.5px solid lightgray;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+.icon-dimension{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+.leftsideOptions{
+    display: flex;
+    
+}
+.rightsideOptions{
+    display: flex;
+    
+}
+.logo{
+    font-weight: 800;
+    font-size: 35px;
+}
