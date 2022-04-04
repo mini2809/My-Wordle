@@ -1,4 +1,5 @@
 import './index.css';
+import React from 'react';
 import menu from '../../public/menu.png';
 import question from '../../public/question.png';
 import stats from '../../public/stats.png';

@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { KeyBoard } from '../KeyBoard';
 import './index.css';
+import React from 'react';
 
 function generateTable(row, column){
    let parent = document.getElementById('mywordletable');
