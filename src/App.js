@@ -1,5 +1,4 @@
 import './App.css';
-import React from 'react';
 import { WordleHome } from './Components/Home';
 import {Header} from './Components/Header';
 

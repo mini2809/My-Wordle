@@ -1,6 +1,5 @@
 import './index.css';
 import clear from '../../public/clear.png';
-import React from 'react';
 
 let attempt = 0;
 let col = 0;
